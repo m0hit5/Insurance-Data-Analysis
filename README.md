@@ -21,7 +21,7 @@ This project uses a simulated dataset for analysis. The dataset provides detaile
 - **Staff Information**: Includes data on employees such as names, roles, and shift details to ensure smooth operations.
 
 ### SQL Queries
-- **Aggregations**: Queries were created to calculate metrics such as total sales, orders per staff, and average order size.
+- **Aggregations**: Queries were created to calculate metrics total sales, orders per staff, and average order size.
 - **Table Joins**: Used joins to link customer, order, and staff data to provide a complete view of the business operations.
 - **Data Manipulation**: Wrote custom queries to analyze order trends, calculate stock consumption, and evaluate employee performance.
 
@@ -34,15 +34,12 @@ The Power BI dashboard was created to provide a clear and interactive visualizat
 ## Images
 The following images showcase key insights from the Power BI dashboard:
 
+- **Dashboard**:
+
 - ![Dashboard](images/dashboard.png)
+
+-  **Word Cloud Sentiment Analysis**:
+  
 - ![Sentiment Analysis](images/sentiment.png)
 
-## Installation Instructions
-### Prerequisites
-- MySQL Database (or any compatible SQL database)
-- Power BI Desktop
 
-### Steps
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/pizzeria-data-analysis.git
