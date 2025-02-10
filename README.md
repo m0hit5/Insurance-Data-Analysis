@@ -14,11 +14,11 @@ This project focuses on performing a comprehensive data analysis of insurance-re
 
 Here’s a screenshot of the **Power BI Dashboard**:
 
-![Dashboard](images/dashboard.jpg)
+![Dashboard](images/dashboard.png)
 
 Additionally, a **Word Cloud** was generated to visually represent the most frequently used words from the textual data:
 
-![Word Cloud](images/wordcloud.jpg)
+![Word Cloud](images/wordcloud.png)
 
 ## Data Files
 
