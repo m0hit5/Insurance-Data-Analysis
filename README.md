@@ -3,16 +3,27 @@
 ## Project Overview
 This project involves the development of a comprehensive SQL database and data analysis dashboard for a Pizzeria business. The goal was to enhance the portfolio with hands-on experience in SQL database design, data manipulation, and the integration of Business Intelligence (BI) tools for interactive data visualization.
 
-### Key Objectives
-- **SQL Database Design**: Designed and developed a relational database to track customer orders, stock levels, and staff details.
-- **Data Extraction & Analysis**: Utilized advanced SQL queries to extract actionable insights from the database, including aggregations, calculations, and table joins.
-- **Power BI Integration**: Integrated the SQL database with Power BI to create interactive dashboards that help visualize and interpret the data for decision-making.
-
 ## Dataset
 This project uses a simulated dataset for analysis. The dataset provides detailed records on customer orders, feedback, and other related business metrics. You can access and explore the following datasets used for analysis:
 
 - **Insurance Customer Feedback (Excel)**: [Insurance-Customer-Feedback.xlsx](https://github.com/m0hit5/Insurance-Data-Analysis/blob/main/Insurance-Customer-Feedback.xlsx)
 - **Insurance Data (CSV)**: [InsuranceData.csv](https://github.com/m0hit5/Insurance-Data-Analysis/blob/main/InsuranceData.csv)
+
+## Images
+The following images showcase key insights from the Power BI dashboard:
+
+- **Dashboard**:
+
+  ![Dashboard](images/dashboard.png)
+
+-  **Word Cloud Sentiment Analysis**:
+  
+  ![Sentiment Analysis](images/sentiment.png)
+
+### Key Objectives
+- **SQL Database Design**: Designed and developed a relational database to track customer orders, stock levels, and staff details.
+- **Data Extraction & Analysis**: Utilized advanced SQL queries to extract actionable insights from the database, including aggregations, calculations, and table joins.
+- **Power BI Integration**: Integrated the SQL database with Power BI to create interactive dashboards that help visualize and interpret the data for decision-making.
 
 ## Features
 ### SQL Database
@@ -30,16 +41,3 @@ The Power BI dashboard was created to provide a clear and interactive visualizat
 - **Order Trends**: Visualizes daily, weekly, and monthly order trends.
 - **Stock Overview**: Displays stock levels and highlights products in need of replenishment.
 - **Staff Performance**: Provides insights into staff performance and order fulfillment times.
-
-## Images
-The following images showcase key insights from the Power BI dashboard:
-
-- **Dashboard**:
-
-- ![Dashboard](images/dashboard.png)
-
--  **Word Cloud Sentiment Analysis**:
-  
-- ![Sentiment Analysis](images/sentiment.png)
-
-
